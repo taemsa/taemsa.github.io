@@ -413,7 +413,8 @@ input[type=submit]:hover {
 
         position: fixed;
 
-        top: 3%;
+        top: 0.5%;
+        margin-top: 0.1%;
       
 
         right: 6.4%;
