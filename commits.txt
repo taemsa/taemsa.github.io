@@ -1,0 +1,66 @@
+commit 8f2ba500cd023f82894890699c3ec8ff6c9a73d8
+Author: Taemsa <Taemsa@Santizo.local>
+Date:   Thu Nov 22 18:07:42 2018 -0600
+
+    There's been minor updates to the gallery in order to display
+    more products.
+
+commit 9fd65fc3c01a64e673e62e42c493afcacaa621b4
+Author: Taemsa <Taemsa@Santizo.local>
+Date:   Thu Nov 22 15:16:07 2018 -0600
+
+    Now the Nav-bar is always on the top.
+
+commit b4579c279ee00a32524d4b7c41e8d329c2f356e7
+Author: Taemsa <Taemsa@Santizo.local>
+Date:   Thu Nov 22 11:14:28 2018 -0600
+
+    gallery added.
+qui:
+commit 1a8ff9c76aded609d6c1b70962f049f300557e6c
+Author: Taemsa <Taemsa@Santizo.local>
+Date:   Sun Nov 11 22:32:17 2018 -0600
+
+    Navigation bar updated, it needs to be optimized for other devices, though.
+
+commit ede29b014d5d29f5f47899dd8a74e4b73b9abdf1
+Author: Taemsa <Taemsa@Santizo.local>
+Date:   Sun Nov 11 16:37:55 2018 -0600
+
+    Content slider's been removed.
+
+commit 09c91b071a2f6d477eece63549b7a0e7725ca45d
+Author: Taemsa <Taemsa@Santizo.local>
+Date:   Sun Nov 11 16:35:49 2018 -0600
+
+    Update
+
+commit 6656d2b2c387dff0e64520e79a2cad68847c3e6f
+Author: Taemsa <Taemsa@Santizo.local>
+Date:   Sun Nov 11 15:49:28 2018 -0600
+
+    metadata has been added.
+
+commit b10cc00b3c0e1af73738a33c3cee33cc2e347540
+Author: Taemsa <Taemsa@Santizo.local>
+Date:   Sun Nov 11 15:45:32 2018 -0600
+
+    Now the nav-bar is responsive
+
+commit fdc61b16cd6e7e7241626616d9a82e1fd974dd7f
+Author: Taemsa <Taemsa@Santizo.local>
+Date:   Sun Nov 11 00:02:04 2018 -0600
+
+    New Navigation bar.
+
+commit a1b09e8af033a752a19d5c0138cacfb2b018983d
+Author: Taemsa <Taemsa@Santizo.local>
+Date:   Tue Nov 6 04:13:03 2018 -0600
+
+    CSS file has been added.
+
+commit fb81d9baec234d296f2827b4b3fade95e8f29218
+Author: Taemsa <Taemsa@Santizo.local>
+Date:   Wed Oct 31 08:16:08 2018 -0600
+
+    First commit.
