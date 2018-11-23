@@ -76,7 +76,7 @@ html {
 
 
 .menu a:hover {
-  background-color: white;
+  background-color: #d6b08b;
   color: black;
 
   border-style: solid;
@@ -110,7 +110,7 @@ html {
 #wrapper {
   /*background-color:#d4a578;*/
 
-  background-color: #2E5EAA;/*#62929E 3993DD #d6b08b
+  background-color: #D63230;/*#62929E 3993DD #d6b08b #1C77C3
   #766153*/
   position: -webkit-sticky;
   position: sticky;
