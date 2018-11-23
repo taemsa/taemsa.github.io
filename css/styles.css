@@ -48,7 +48,7 @@ html {
 .menu a {
     clear: right;
     text-decoration: none;
-    /*font-weight: bold;*/
+    font-weight: bold;
     color: black;
     line-height: 50px;
     margin: 0 3% 0 3%;
@@ -110,7 +110,7 @@ html {
 #wrapper {
   /*background-color:#d4a578;*/
 
-  background-color: white;/*#62929E
+  background-color: #2E5EAA;/*#62929E 3993DD #d6b08b
   #766153*/
   position: -webkit-sticky;
   position: sticky;
